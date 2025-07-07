@@ -10,7 +10,6 @@ Main Features:
 - Custom Scan: Allows users to choose specific folders to scan.
 - Real-Time Protection: Monitors the system in real-time to block threats as they occur.
 - Extension-Based Scanning: Users can enable or disable scanning for specific file extensions such as .exe, .dll, .bat, etc.
-- Exclusions: Lets users skip certain folders from scans and save those preferences.
 - Quarantine: Detected threats are isolated for safety and can be reviewed or deleted.
 - Auto Updates: Keeps virus definitions up to date automatically.
 - Clean User Interface: Modern design with glow effects, animated scan progress, and an organized layout.
